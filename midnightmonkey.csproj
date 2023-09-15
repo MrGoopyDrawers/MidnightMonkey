@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>midnightmonkey</RootNamespace>
+        <Configurations>Debug;Release</Configurations>
+        <Nullable>enable</Nullable>
+        <AssemblyName>midnightmonkey</AssemblyName>
+        <LangVersion>latest</LangVersion>
+        <Optimize>False</Optimize>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
+
+    <Import Project="..\btd6.targets" />
+
+    <ItemGroup>
+      <None Remove="crosshair.png" />
+      <None Remove="darkaura.png" />
+      <None Remove="darkHands.png" />
+      <None Remove="darkMarket.png" />
+      <None Remove="darknesss.png" />
+      <None Remove="darkRange.png" />
+      <None Remove="darkside.png" />
+      <None Remove="displayshit.png" />
+      <None Remove="dizzyIcon.png" />
+      <None Remove="durableIcon.png" />
+      <None Remove="explosion.png" />
+      <None Remove="hand.png" />
+      <None Remove="human.png" />
+      <None Remove="Icon.png" />
+      <None Remove="midnightActivate.wav" />
+      <None Remove="midnightblur.png" />
+      <None Remove="midnightIcon.png" />
+      <None Remove="midnightmonke-Icon.png" />
+      <None Remove="midnightmonke-Portrait.png" />
+      <None Remove="midnightStrike.wav" />
+      <None Remove="midnightStrike2.wav" />
+      <None Remove="midnightStrike3.wav" />
+      <None Remove="moon.png" />
+      <None Remove="nightTime.png" />
+      <None Remove="sharpIcon.png" />
+    </ItemGroup>
+</Project>

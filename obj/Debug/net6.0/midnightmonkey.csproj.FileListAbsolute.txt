@@ -1,0 +1,10 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\midnightmonkey\bin\Debug\net6.0\midnightmonkey.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\midnightmonkey\bin\Debug\net6.0\midnightmonkey.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\midnightmonkey\obj\Debug\net6.0\midnightmonkey.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\midnightmonkey\obj\Debug\net6.0\midnightmonkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\midnightmonkey\obj\Debug\net6.0\midnightmonkey.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\midnightmonkey\obj\Debug\net6.0\midnightmonkey.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\midnightmonkey\obj\Debug\net6.0\midnightmonkey.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\midnightmonkey\obj\Debug\net6.0\midnightmonkey.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\midnightmonkey\obj\Debug\net6.0\refint\midnightmonkey.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\midnightmonkey\obj\Debug\net6.0\ref\midnightmonkey.dll
